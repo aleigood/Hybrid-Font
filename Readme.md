@@ -1,6 +1,6 @@
 # 说明
 
-思源黑体与DejaVu Sans Mono的混合字体，在Sublime Text下可以完美显示中文和等宽英文，适合编程使用。
+思源黑体与DejaVu Sans Mono的混合字体，DejaVu Sans Mono作为编程字体效果要好于Consolas，但微软雅黑字体过宽且稍细与DejaVu Sans Mono字体不是很协调，而思源黑体与DejaVu Sans Mono搭配很完美。
 
 # SublimeText的建议配置
 
