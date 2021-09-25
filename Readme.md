@@ -1,6 +1,4 @@
-# 说明
-
-## Source DejaVu Hybrid
+# Source DejaVu Hybrid
 
 思源黑体与DejaVu Sans Mono的混合字体，DejaVu Sans Mono作为编程字体效果要好于Consolas，但微软雅黑字体过宽且稍细与DejaVu Sans Mono字体不是很协调，而思源黑体与DejaVu Sans Mono搭配很完美。
 
@@ -16,14 +14,14 @@ SublimeText的建议配置
 }
 ```
 
-## Source Cascadia
+# Source Cascadia
 
 思源黑体与Cascadia的混合字体，SublimeText中不需要设置字体加粗可以完美显示，但中文偏细一些
 
 ![Source Cascadia](https://user-images.githubusercontent.com/3367999/134764517-8577845b-07d8-42e5-8bbc-75781dbda6de.png)
 
 
-## Source Cascadia Medium
+# Source Cascadia Medium
 
 思源黑体Medium与Cascadia的混合字体，中文与英文几乎等粗
 
